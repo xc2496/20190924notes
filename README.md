@@ -4,6 +4,7 @@ In class notes
 #*New Schools venture Fund---Non-profit Organization
 #more likely a agoverbment agency.
 
+
 #Matrix VS Data Frame
 #Create Matrix
 #matrix()
@@ -35,6 +36,19 @@ D
 diag(D)<-NA
 diag(D)
 D
+
+
+#Greller&Draschler
+#Internal limitations-information delivery. External Constaints:single occasion.E.g. kids temporature move up and down. Some parents send kids to the hospital because they don't know about the fluctuation. Big different between reflection and prediction. 
+
+
+#Code of Ethics
+#There have been several Learning Analytics Codes of Ethics drawn up for institutions:
+#1.Open University
+#2.JISC
+#3.American Library Association
+#4.Data for Good
+
 
  
  
